@@ -49,6 +49,6 @@ A smart, AI-powered solution for secure and fair online examinations. This syste
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/AI-Proctor.git
-cd AI-Proctor
+git clone https://github.com/Shivam-KT/AI-Proctor-Test-System.git
+cd AI-Proctor-Test-System
 pip install -r requirements.txt
